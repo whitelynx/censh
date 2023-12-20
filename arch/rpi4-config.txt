@@ -1,0 +1,8 @@
+# Disable rainbow splash screen on startup
+disable_splash=1
+# Enable I2C GPIO pins for RTC
+dtparam=i2c_arm=on
+# Load I2C RTC drivers
+dtoverlay=i2c-rtc,ds1307
+# Enable OpenGL
+dtoverlay=vc4-fkms-v3d
