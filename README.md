@@ -6,6 +6,9 @@ _Design for an integrated car entertainment/navigation system and HUD._
 This design is based on my 2010 Subaru Outback 2.5i Limited.
 
 
+<div style="color: #880000; font-weight: bold">NOTE: This project has been on hold since April 2020. Since then I've moved overseas - I no longer own this car, and the rest of the hardware for this project is sitting in storage on a different continent. Once I get a new car, there's a chance I'll pick this up again.</div>
+
+
 Hardware
 --------
 
